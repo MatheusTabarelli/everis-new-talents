@@ -10,3 +10,5 @@ Projeto desenvolvido em Spring e MySQL, a fim de criar um Blog Pessoal, onde o u
 - Anotações
 - Validações
 - Postman
+
+## O deploy desse projeto pode ser conferido em: https://matheustabarelli.herokuapp.com/ (para acessar basta me enviar um email!)
